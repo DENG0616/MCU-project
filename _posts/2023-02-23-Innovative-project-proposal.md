@@ -20,8 +20,9 @@ This homework is to propose an innovative project and describe the key features,
   - Draw a System Block Diagram
 
 ---
-## 打女人神器
-
+## 家用手臂機器人
+![](https://github.com/DENG0616/MCU-project/blob/main/images/2016-10-17_132459.png)
+<iframe width="1115" height="697" src="https://www.youtube.com/embed/Mex-8bbIjEI" title="DUM-E SAVING TONY&#39;S LIFE - IRON MAN 1(2008) - 4K VIDEO CLIP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### 應用功能說明
 1. 操作廚具：咖啡機＋果汁機＋烤麵包機＋微波爐+烤箱+氣炸鍋
@@ -40,7 +41,6 @@ This homework is to propose an innovative project and describe the key features,
 3. 電子鼻：氣味感測與辨識 MQ2
 
 ### 系統方塊圖
-![](https://github.com/rkuo2000/MCU-course/blob/main/images/FutureHome_kitchen_robot.png?raw=true)
 
 
 ---
