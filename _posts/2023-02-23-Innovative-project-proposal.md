@@ -21,7 +21,7 @@ This homework is to propose an innovative project and describe the key features,
 
 ---
 ## 家用手臂機器人
-![](https://github.com/DENG0616/MCU-project/blob/main/images/2016-10-17_132459.png)
+![]([https://github.com/DENG0616/MCU-project/blob/main/images/2016-10-17_132459.png](https://github.com/DENG0616/MCU-project/blob/main/images/2016-10-17_132459.png?raw=true))
 <iframe width="1115" height="697" src="https://www.youtube.com/embed/Mex-8bbIjEI" title="DUM-E SAVING TONY&#39;S LIFE - IRON MAN 1(2008) - 4K VIDEO CLIP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### 應用功能說明
