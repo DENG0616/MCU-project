@@ -10,17 +10,22 @@ This homework is to propose an innovative project and describe the key features,
 
 ---
 ## Homework Report Format
-**Contents:**<br>
-* **應用與功能說明**
-  - Specify the future home application, and Describe the key features
-  - Describe the key features which may be applied to the home space (kitchen, living room, play room, study room, bed room)
-* **設計考量與所需相關技術**
-  - List all design considerations and the required technologies
-* **系統方塊圖**
-  - Draw a System Block Diagram
-
----
 ## 家用手臂機器人
+* **應用與功能說明**
+1. 居家監控：外出時可透過鏡頭查看屋內狀況
+2. 遠端控制：在外可利用網路連線控制手臂
+3. 使用用途：能夠完成遠端控制或自動完成指令
+4. 如何偵測：使用語音辨識以及鏡頭辨識
+5. 餐飲服務：遞送飲料以及各式各樣的食物
+6. 家務服務：可遠端查看家寵的飲食以及維護其生活環境
+* **設計考量與所需相關技術**
+1. 移動方式：履帶or輪胎
+2. 供電方式：電池＋充電
+3. 聯網方式：WiFi 或 BLE to中控電腦
+4. 感測裝置：收音麥克風＋鏡頭
+* **系統方塊圖**
+![](https://github.com/DENG0616/MCU-project/blob/main/images/the%20robot%20design.png?raw=true)
+* **系統類似**
 ![](https://github.com/DENG0616/MCU-project/blob/main/images/2016-10-17_132459.png?raw=true)
 <iframe width="1115" height="697" src="https://www.youtube.com/embed/Mex-8bbIjEI" title="DUM-E SAVING TONY&#39;S LIFE - IRON MAN 1(2008) - 4K VIDEO CLIP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
