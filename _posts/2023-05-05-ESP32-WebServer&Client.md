@@ -9,7 +9,7 @@ tags: [jekyll, ai]
 This homework is about a robot car controlled with smartphone by connecting to wifi.
 
 ---
-## Homework Report Format
+## Homework Report Format 
 ## Server and Client
 * **功能說明**
 1. Webserver：架設服務器，供資料上傳
